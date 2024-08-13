@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_app/screens/page1_screen.dart';
 import 'package:mobile_app/screens/page2_screen.dart';
 import 'package:mobile_app/screens/settings_screen.dart';
 
